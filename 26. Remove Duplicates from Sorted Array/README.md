@@ -1,6 +1,6 @@
 ### <a href='https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/'> 26. Remove Duplicates from Sorted Array </a>
 
-<img src ='https://img.shields.io/badge/Difficulty-Hard-brightred' alt='Difficulty: Easy' />
+<img src ='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
 
 ---
 
